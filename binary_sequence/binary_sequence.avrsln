@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "binary_sequence", "binary_sequence\binary_sequence.avrgccproj", "{C44745B7-8D70-4D8B-BC1E-B7A8FE5EC5F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44745B7-8D70-4D8B-BC1E-B7A8FE5EC5F5}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C44745B7-8D70-4D8B-BC1E-B7A8FE5EC5F5}.Debug|AVR.Build.0 = Debug|AVR
+		{C44745B7-8D70-4D8B-BC1E-B7A8FE5EC5F5}.Release|AVR.ActiveCfg = Release|AVR
+		{C44745B7-8D70-4D8B-BC1E-B7A8FE5EC5F5}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

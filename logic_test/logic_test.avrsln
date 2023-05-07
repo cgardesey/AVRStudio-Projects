@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "logic_test", "logic_test\logic_test.avrgccproj", "{353F1AE0-84B9-4FF2-9764-BB539637E551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{353F1AE0-84B9-4FF2-9764-BB539637E551}.Debug|AVR.ActiveCfg = Debug|AVR
+		{353F1AE0-84B9-4FF2-9764-BB539637E551}.Debug|AVR.Build.0 = Debug|AVR
+		{353F1AE0-84B9-4FF2-9764-BB539637E551}.Release|AVR.ActiveCfg = Release|AVR
+		{353F1AE0-84B9-4FF2-9764-BB539637E551}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

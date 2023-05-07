@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "reading_input", "reading_input\reading_input.avrgccproj", "{EC541FAD-D173-48F4-ADFD-D3E993A67254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC541FAD-D173-48F4-ADFD-D3E993A67254}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EC541FAD-D173-48F4-ADFD-D3E993A67254}.Debug|AVR.Build.0 = Debug|AVR
+		{EC541FAD-D173-48F4-ADFD-D3E993A67254}.Release|AVR.ActiveCfg = Release|AVR
+		{EC541FAD-D173-48F4-ADFD-D3E993A67254}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

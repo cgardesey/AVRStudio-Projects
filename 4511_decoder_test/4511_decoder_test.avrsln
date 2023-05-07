@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "4511_decoder_test", "4511_decoder_test\4511_decoder_test.avrgccproj", "{A80F176E-BD04-431E-B87E-0D9712EC272C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80F176E-BD04-431E-B87E-0D9712EC272C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A80F176E-BD04-431E-B87E-0D9712EC272C}.Debug|AVR.Build.0 = Debug|AVR
+		{A80F176E-BD04-431E-B87E-0D9712EC272C}.Release|AVR.ActiveCfg = Release|AVR
+		{A80F176E-BD04-431E-B87E-0D9712EC272C}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

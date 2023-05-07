@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "portBtest2", "portBtest2\portBtest2.avrgccproj", "{26C55CA6-AD6F-49E6-AA33-01D338477895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C55CA6-AD6F-49E6-AA33-01D338477895}.Debug|AVR.ActiveCfg = Debug|AVR
+		{26C55CA6-AD6F-49E6-AA33-01D338477895}.Debug|AVR.Build.0 = Debug|AVR
+		{26C55CA6-AD6F-49E6-AA33-01D338477895}.Release|AVR.ActiveCfg = Release|AVR
+		{26C55CA6-AD6F-49E6-AA33-01D338477895}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
